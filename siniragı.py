@@ -4,12 +4,13 @@ import pandas as pd
 
 data=pd.read_csv("Churn_Modelling.csv")
 
+#Verimize Bakıyoruz
+
 info=data.info()
 print(info)
 
 isnull=data.isnull()
 print(isnull)
-
 
 #%% Veri Önişleme
 
