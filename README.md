@@ -6,5 +6,6 @@ Kullandığım kütüphaneler;
 
 Pandas,Sklearn ve Keras
 
+Veri Setine Aşağıdaki Linkten Ulaşabilirsiniz
 
-
+https://www.kaggle.com/shubh0799/churn-modelling
